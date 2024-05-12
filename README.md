@@ -37,7 +37,7 @@
 ███████████████████████████████████████████████████████████
 █ 1. Learn to work with AI.                               █
 █ 2. Complete several small projects in Python.           █
-█ 3. Learn low-level languages, for example.              █
+█ 3. Learn low-level languages, for example, C || C++.    █
 █ 4. Build a robot.                                       █
 ███████████████████████████████████████████████████████████
 
@@ -60,7 +60,7 @@
 | I’m doing web development now, but I’m trying myself in other areas.  |
 |                                                                       |
 | 1. Now, I study algorithms in my spare time and add them to the       |
-|    [repository name] repository.                                      |
+|    algorithms-with-python repository.                                 |
 | 2. I am also taking a course on AI and hope to create some            |
 |    interesting project based on it.                                   |
 +-----------------------------------------------------------------------+
