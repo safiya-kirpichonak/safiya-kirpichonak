@@ -1,5 +1,4 @@
 ```txt
-
     __  __       __ __                                 __     __ __
    / / / /___   / // /____     _      __ ____   _____ / /____/ // /
   / /_/ // _ \ / // // __ \   | | /| / // __ \ / ___// // __  // / 
@@ -7,30 +6,27 @@
 /_/ /_/ \___//_//_/ \____/    |__/|__/ \____//_/   /_/ \__,_/(_)   
                                                                   
 
-                 _,--=--._
-               ,'    _    `.           *       *   *       *
-              -    _(_)_o   -            .          
-         ____'    /_  _/]    `____          *    *   *       *
-  -=====::(+):::::::::::::::::(+)::=====-   
-           (+).""""""""""""",(+)
-               .           ,     *       *  *    *    *    *
-                 `  -=-  '              . ,          .      .     
-          *       '          *       '          *       '          *       '
-               .       .  .       .                .       .  .       .
- '  *     *  .   *  .   *   .   '  *  .  *     '   *
-     '   *       .   *       .       .  *   .  *   .   .  .  *     '   
+ '  *     *  .   *  .   *   .   '  *  .  *     '   **    .  *    .  *    .  
+     '   *       .   *       .       .  *   .  *   .   .  .  *     '   *    .  
      *       *       *       *       *       *       *       *        .   
-                 '          .  *     .        .        .  *     .   
-                      .            .     *    .        .     *    .
-                   *       '
-                              *                *    .        *    .    
-                    .        *    .        *    .        *    .        *    .    
-   *   '*                               *        .  *           
-           *                                *   '   *   '*      
-                *                       *    .        *    .        *    .    
-                       *                *    .        *    .        *    .    
-               *                                *   '   *   '*
-                     *                   *    .        *    .        *    .
+                 '          .  *     .        .        .  *     .   *    .  
+                      .            .     *    .        .     *    .*    .  *    .  
+             '   *       .   *               *       '*    .  *    .  *    .  *    
+      '   *       .   *               *                        *              
+ *    .        *    .            *                 .        *    .        *    .  
+                                _,--=--._
+        .   *                 ,'    _    `.           *       *   *       *
+  .                          -    _(_)_o   -            .          
+      '   *             ____'    /_  _/]    `____          *    *   *       *
+                  -=====::(+):::::::::::::::::(+)::=====-   *    * 
+                           (+).""""""""""""",(+)     *    * *    * 
+  *  '            '           .           ,     *       *  *    *    *    *
+                                `  -=-  '              . ,          .      .     
+    '      *       '          *       '          *       '          *       '
+               .       .  .       .                .       .  .       .
+ '  *     *  .   *  .   *   .   '  *  .  *     '   **    .  *    .  *    .  
+     '   *       .   *       .       .  *   .  *   .   .  .  *     '   *    .  
+     *       *       *       *       *       *       *       *        .   
 
 ███████████████████████████████████████████████████████████
 █                       Goals                             █
@@ -55,14 +51,15 @@
                   ` __.:'-'
 
 +-----------------------------------------------------------------------+
-|                              Status                                   | 
+|                              Completed                                | 
 +-----------------------------------------------------------------------+
-| I’m doing web development now, but I’m trying myself in other areas.  |
 |                                                                       |
-| 1. Now, I study algorithms in my spare time and add them to the       |
-|    algorithms-with-python repository.                                 |
-| 2. I am also taking a course on AI and hope to create some            |
-|    interesting project based on it.                                   |
+|   1. I created a small website for learning English: okibro.com.      |
+|                                                                       |
+|   2. vulner-tape is a small application for analyzing PHP websites.   |
+|   developed it in college, so it's more of a keepsake than            |
+|   something practically useful.                                       |
+|                                                                       |
 +-----------------------------------------------------------------------+
 
               _________
@@ -90,18 +87,24 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
 ~~~~~~~~~  ~~~~  ~~~~~ ~~~~~~~~~ ~ ~      ~~~~~~ ~~~~~~     ~~~~    ~~~~
 ~~~~~~~~     ~~~~~~~~~~~~~~~        ~~~~~~~~~~~~ ~~~~~~  ~~~ ~~~~~~  ~~~
 
-
    +-----------------------------------------------------------+
    |.---------------------------------------------------------.|
-   ||                       Completed                         ||
+   ||                         Status                          ||
    ||                                                         ||
-   ||    1. I created a small website for learning            ||
-   ||    English: okibro.com.                                 ||           
+   ||    I’m doing web development now, but I’m trying        ||
+   ||    myself in other areas.                               ||
    ||                                                         ||
-   ||    2. vulner-tape is a small application for            ||
-   ||    analyzing PHP websites. I developed it in            ||
-   ||    college, so it's more of a keepsake than             ||
-   ||    something practically useful.                        ||
+   ||    1. I study algorithms in my spare time and           ||
+   ||    add them to the algorithms-with-python repository.   ||
+   ||                                                         || 
+   ||    2. If I come up with something small but             || 
+   ||    theoretically useful, I add it to usefull-scripts.   || 
+   ||                                                         || 
+   ||    3. If I come up with something small but             || 
+   ||    theoretically useless, I add it to useless-scripts.  ||
+   ||                                                         || 
+   ||    4. I am also taking a course on AI and hope          || 
+   ||    to create some interesting project based on it.      || 
    ||                                                         || 
    |+---------------------------------------------------------+|
    +-..-----------------------------------------------------..-+
@@ -110,6 +113,8 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
  / /============================================================\ \
 /__________________________________________________________________\
 \__________________________________________________________________/
+
+I’m doing web development now, but I’m trying myself in other areas.
 
 root@hostname:~# ./say-buy
 
