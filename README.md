@@ -50,11 +50,14 @@
 |                              Completed                                | 
 +-----------------------------------------------------------------------+
 |                                                                       |
-|   1. I created a small website for learning English: okibro.com.      |
+|   1. okibro.com is a website for learning English with AI.            |
 |                                                                       |
 |   2. vulner-tape is a small application for analyzing PHP websites.   |
 |   developed it in college, so it's more of a keepsake than            |
 |   something practically useful.                                       |
+|                                                                       |
+|   3. skin-cancer-stop is a client part of application for analyzing   |
+|   moles on skin. It was a part of my diploma project.                 |
 |                                                                       |
 +-----------------------------------------------------------------------+
 
