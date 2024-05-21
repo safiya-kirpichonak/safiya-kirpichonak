@@ -27,9 +27,9 @@
 ███████████████████████████████████████████████████████████
 █                       Goals                             █
 ███████████████████████████████████████████████████████████
-█ 1. Learn to work with AI.                               █
+█ 1. Learn to work with artificial intelligence           █
 █ 2. Complete several small projects in Python.           █
-█ 3. Learn low-level languages, for example, C || C++.    █
+█ 3. Learn low-level languages, C and C++.                █ 
 █ 4. Build a robot.                                       █
 ███████████████████████████████████████████████████████████
 
