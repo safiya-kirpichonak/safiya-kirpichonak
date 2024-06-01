@@ -27,7 +27,7 @@
 ███████████████████████████████████████████████████████████
 █                       Goals                             █
 ███████████████████████████████████████████████████████████
-█ 1. Learn to work with artificial intelligence.          █
+█ 1. Learn to work with artificial intelligence           █
 █ 2. Complete several small projects in Python.           █
 █ 3. Learn low-level languages, C and C++.                █ 
 █ 4. Build a robot.                                       █
@@ -50,14 +50,14 @@
 |                              Completed                                | 
 +-----------------------------------------------------------------------+
 |                                                                       |
-|   1. okibro.com (stopped) is a website for learning English with AI.  |
+|   1. okibro.com is a website for learning English with AI.            |
 |                                                                       |
-|   2. vulner-tape (completed) is a small application for analyzing PHP |
-|   websites. developed it in college, so it's more of a keepsake than  |
+|   2. vulner-tape is a small application for analyzing PHP websites.   |
+|   developed it in college, so it's more of a keepsake than            |
 |   something practically useful.                                       |
 |                                                                       |
-|   3. skin-cancer-stop (stopped) is a client part of application       |
-|   for analyzing moles on skin. It was a part of my diploma project.   |
+|   3. skin-cancer-stop is a client part of application for analyzing   |
+|   moles on skin. It was a part of my diploma project.                 |
 |                                                                       |
 +-----------------------------------------------------------------------+
 
@@ -92,15 +92,19 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||                                                         ||
    ||    I’m doing web development now, but I’m trying        ||
    ||    myself in other areas.                               ||
-   ||                                                         || 
-   ||    1. If I come up with something small but             || 
-   ||    theoretically useful, I add it to usefull-scripts.   || 
+   ||                                                         ||
+   ||    1. I study algorithms in my spare time and           ||
+   ||    add them to the algorithms-with-python repository.   ||
    ||                                                         || 
    ||    2. If I come up with something small but             || 
-   ||    theoretically useless, I add it to useless-scripts.  ||
+   ||    theoretically useful, I add it to useful-scripts.    || 
    ||                                                         || 
-   ||    3. I am also taking a course on AI and hope          || 
-   ||    to create some interesting projects based on it.     || 
+   ||    3. If I come up with something small but             || 
+   ||    theoretically funny, I add it to entertaining-       ||
+   ||    scripts.                                             ||
+   ||                                                         || 
+   ||    4. I am also taking a course on AI and hope          || 
+   ||    to create some interesting project based on it.      || 
    ||                                                         || 
    |+---------------------------------------------------------+|
    +-..-----------------------------------------------------..-+
