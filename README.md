@@ -30,7 +30,7 @@
 █ 1. Learn to work with artificial intelligence           █
 █ 2. Complete several small projects in Python.           █
 █ 3. Learn low-level languages, C and C++.                █ 
-█ 4. Build a robot.                                       █
+█ 4. Build a robot or just electronic project.            █
 ███████████████████████████████████████████████████████████
 
                        .')             _
