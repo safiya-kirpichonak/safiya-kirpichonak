@@ -56,8 +56,8 @@
 |   developed it in college, so it's more of a keepsake than            |
 |   something practically useful.                                       |
 |                                                                       |
-|   3. skin-cancer-stop is a client part of application for analyzing   |
-|   moles on skin. It was a part of my diploma project.                 |
+|   3. mole-spector is a client part of application for                 | 
+|   analyzing moles on skin. It was a part of my diploma project.       |
 |                                                                       |
 +-----------------------------------------------------------------------+
 
