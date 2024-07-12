@@ -27,7 +27,7 @@
 ███████████████████████████████████████████████████████████
 █                       Goals                             █
 ███████████████████████████████████████████████████████████
-█ 1. Learn to work with artificial intelligence           █
+█ 1. Learn to work with artificial intelligence.          █
 █ 2. Complete several small projects in Python.           █
 █ 3. Learn low-level languages, C and C++.                █ 
 █ 4. Build a robot or just electronic project.            █
@@ -50,15 +50,13 @@
 |                              Completed                                | 
 +-----------------------------------------------------------------------+
 |                                                                       |
-|   1. okibro.com is a website for learning English with AI.            |
-|                                                                       |
-|   2. vulner-tape is a small application for analyzing PHP websites.   |
-|   developed it in college, so it's more of a keepsake than            |
+|   - vulner-tape is a small application for analyzing PHP websites.    |
+|   I developed it in college, so it's more of a keepsake than          |
 |   something practically useful.                                       |
 |                                                                       |
-|   3. mole-spector is a client part of application for                 | 
-|   analyzing moles on skin. It was a part of my diploma project.       |
-|                                                                       |
+|   - mole-spector is a simple web application for analyzing moles      |
+|   on skin to detect skin cancer.                                      |
+|                                                                       | 
 +-----------------------------------------------------------------------+
 
               _________
@@ -102,9 +100,6 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    3. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
-   ||                                                         || 
-   ||    4. I am also taking a course on AI and hope          || 
-   ||    to create some interesting project based on it.      || 
    ||                                                         || 
    |+---------------------------------------------------------+|
    +-..-----------------------------------------------------..-+
