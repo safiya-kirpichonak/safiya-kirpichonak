@@ -91,13 +91,18 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    I’m doing web development now, but I’m trying        ||
    ||    myself in other areas.                               ||
    ||                                                         ||
-   ||    1. I study algorithms in my spare time and           ||
+   ||    1. I am reading "Structure and interpretation        ||
+   ||    of computer programs" and solving tasks from         ||
+   ||    that book. You can see the results in                ||
+   ||    saiofcp-book.                                        ||
+   ||                                                         ||
+   ||    2. I study algorithms in my spare time and           ||
    ||    add them to the algorithms-with-python repository.   ||
    ||                                                         || 
-   ||    2. If I come up with something small but             || 
+   ||    3. If I come up with something small but             || 
    ||    theoretically useful, I add it to useful-scripts.    || 
    ||                                                         || 
-   ||    3. If I come up with something small but             || 
+   ||    4. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
    ||                                                         || 
