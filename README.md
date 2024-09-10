@@ -91,9 +91,9 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    I’m doing web development now, but I’m trying        ||
    ||    myself in other areas.                               ||
    ||                                                         ||
-   ||    1. I am reading "Structure and interpretation        ||
-   ||    of computer programs" and solving tasks from         ||
-   ||    that book. You can see the results in                ||
+   ||    1. [stopped] I am reading "Structure and             || 
+   ||    interpretation of computer programs" and solving     ||
+   ||    tasks from that book. You can see the results in     ||             
    ||    saiofcp-book.                                        ||
    ||                                                         ||
    ||    2. I study algorithms in my spare time and           ||
@@ -105,6 +105,9 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    4. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
+   ||                                                         ||
+   ||    5. I am learning React course right now. You can     ||
+   ||    found results in the react-learning repository.      ||
    ||                                                         || 
    |+---------------------------------------------------------+|
    +-..-----------------------------------------------------..-+
