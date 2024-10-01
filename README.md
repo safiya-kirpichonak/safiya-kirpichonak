@@ -57,7 +57,7 @@
 |   - mole-spector is a simple web application for analyzing moles      |
 |   on skin to detect skin cancer.                                      | 
 |                                                                       |
-|   - okibro is a small application for learning Anguish language       |
+|   - okibro is a small application for learning English language       |
 |   using the ChatGPD API.                                              |
 |                                                                       |
 +-----------------------------------------------------------------------+
