@@ -99,9 +99,6 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    4. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
-   ||                                                         ||
-   ||    5. I am learning React course right now. You can     ||
-   ||    found results in the react-learning repository.      ||
    ||                                                         || 
    |+---------------------------------------------------------+|
    +-..-----------------------------------------------------..-+
