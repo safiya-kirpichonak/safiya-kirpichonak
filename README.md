@@ -41,15 +41,17 @@
 |                              Completed                                | 
 +-----------------------------------------------------------------------+
 |                                                                       |
-|   - vulner-tape is a small application for analyzing PHP websites.    |
-|   I developed it in college, so it's more of a keepsake than          |
-|   something practically useful.                                       |
-|                                                                       |
+|   2024:                                                               |
 |   - mole-spector is a simple web application for analyzing moles      |
 |   on skin to detect skin cancer.                                      | 
 |                                                                       |
 |   - okibro is a small application for learning English language       |
 |   using the ChatGPD API.                                              |
+|                                                                       |
+|   2023:                                                               |
+|   - vulner-tape is a small application for analyzing PHP websites.    |
+|   I developed it in college, so it's more of a keepsake than          |
+|   something practically useful.                                       |
 |                                                                       |
 +-----------------------------------------------------------------------+
 
