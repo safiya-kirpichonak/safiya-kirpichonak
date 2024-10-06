@@ -85,10 +85,9 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    I’m doing web development now, but I’m trying        ||
    ||    myself in other areas.                               ||
    ||                                                         ||
-   ||    1. [stopped] I am reading "Structure and             || 
-   ||    interpretation of computer programs" and solving     ||
-   ||    tasks from that book. You can see the results in     ||             
-   ||    saiofcp-book.                                        ||
+   ||    1. I am reading "Structure and interpretation        || 
+   ||    programs" and solving of computer tasks from         ||
+   ||    that book. You can see the results in saiofcp-book.  ||  
    ||                                                         ||
    ||    2. I study algorithms in my spare time and           ||
    ||    add them to the algorithms-with-python repository.   ||
