@@ -89,7 +89,8 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||                                                         ||
    ||    1. I am reading "Structure and interpretation        || 
    ||    programs" and solving of computer tasks from         ||
-   ||    that book. You can see the results in saiofcp-book.  ||  
+   ||    that book. You can see the results                   ||
+   ||    saiofcp-book-learning.                               || 
    ||                                                         ||
    ||    2. I study algorithms in my spare time and           ||
    ||    add them to the algorithms-with-python repository.   ||
