@@ -91,14 +91,11 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    programs" and solving of computer tasks from         ||
    ||    that book. You can see the results                   ||
    ||    saiofcp-book-learning.                               || 
-   ||                                                         ||
-   ||    2. I study algorithms in my spare time and           ||
-   ||    add them to the algorithms-with-python repository.   ||
    ||                                                         || 
-   ||    3. If I come up with something small but             || 
+   ||    2. If I come up with something small but             || 
    ||    theoretically useful, I add it to useful-scripts.    || 
    ||                                                         || 
-   ||    4. If I come up with something small but             || 
+   ||    3. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
    ||                                                         || 
