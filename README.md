@@ -93,11 +93,14 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    programs" and solving of computer tasks from         ||
    ||    that book. You can see the results                   ||
    ||    saiofcp-book-learning.                               || 
-   ||                                                         || 
-   ||    2. If I come up with something small but             || 
+   ||                                                         ||
+   ||    2. I am taking a course about Arduino and showing    ||
+   ||    the results in the arduino-learning.                 ||
+   ||                                                         ||
+   ||    3. If I come up with something small but             || 
    ||    theoretically useful, I add it to useful-scripts.    || 
    ||                                                         || 
-   ||    3. If I come up with something small but             || 
+   ||    4. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
    ||                                                         || 
