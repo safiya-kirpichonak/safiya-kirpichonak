@@ -48,12 +48,18 @@
 |   - okibro is a small application for learning English language       |
 |   using the ChatGPD API.                                              |
 |                                                                       | 
-|   - react-learning [course].                                          |  
+|   - completed React course (react-learning).                          |
+|                                                                       |
+|   - completed "CS50's Introduction to Artificial Intelligence         |
+|   with Python" course (used in mole-spector).                         |
 |                                                                       |
 |   2023:                                                               |
 |   - vulner-tape is a small application for analyzing PHP websites.    |
 |   I developed it in college, so it's more of a keepsake than          |
 |   something practically useful.                                       |
+|                                                                       |
+|   - completed "CS50’s Introduction to Programming with Python"        |
+|   course.                                                             |
 |                                                                       |
 +-----------------------------------------------------------------------+
 
@@ -94,13 +100,10 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    that book. You can see the results                   ||
    ||    saiofcp-book-learning.                               || 
    ||                                                         ||
-   ||    2. I am taking a course about Arduino and showing    ||
-   ||    the results in the arduino-learning.                 ||
-   ||                                                         ||
-   ||    3. If I come up with something small but             || 
+   ||    2. If I come up with something small but             || 
    ||    theoretically useful, I add it to useful-scripts.    || 
    ||                                                         || 
-   ||    4. If I come up with something small but             || 
+   ||    3. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
    ||                                                         || 
