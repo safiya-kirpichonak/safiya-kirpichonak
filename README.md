@@ -59,7 +59,7 @@
 |   something practically useful.                                       |
 |                                                                       |
 |   - completed "CS50’s Introduction to Programming with Python"        |
-|   course.                                                             |
+|   course (used later in mole-spector).                                |
 |                                                                       |
 +-----------------------------------------------------------------------+
 
@@ -97,13 +97,16 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||                                                         ||
    ||    1. I am reading "Structure and interpretation        || 
    ||    programs" and solving of computer tasks from         ||
-   ||    that book. You can see the results                   ||
-   ||    saiofcp-book-learning.                               || 
+   ||    that book. You can see the results in the            ||
+   ||    "saiofcp-book-learning".                             || 
    ||                                                         ||
-   ||    2. If I come up with something small but             || 
+   ||    2. I am learning free Arduino course and show        ||
+   ||    results in the "arduino-learning".                   ||
+   ||                                                         ||
+   ||    3. If I come up with something small but             || 
    ||    theoretically useful, I add it to useful-scripts.    || 
    ||                                                         || 
-   ||    3. If I come up with something small but             || 
+   ||    4. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
    ||                                                         || 
