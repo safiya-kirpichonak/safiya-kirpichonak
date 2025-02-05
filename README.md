@@ -99,13 +99,10 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    that book. You can see the results in the            ||
    ||    "saiofcp-book-learning".                             || 
    ||                                                         ||
-   ||    2. I am learning free Arduino course and show        ||
-   ||    results in the "arduino-learning".                   ||
-   ||                                                         ||
-   ||    3. If I come up with something small but             || 
+   ||    2. If I come up with something small but             || 
    ||    theoretically useful, I add it to useful-scripts.    || 
    ||                                                         || 
-   ||    4. If I come up with something small but             || 
+   ||    3. If I come up with something small but             || 
    ||    theoretically funny, I add it to entertaining-       ||
    ||    scripts.                                             ||
    ||                                                         || 
