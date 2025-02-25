@@ -49,16 +49,10 @@
 |                                                                       | 
 |   - completed React course (react-learning).                          |
 |                                                                       |
-|   - completed "CS50's Introduction to Artificial Intelligence         |
-|   with Python" course (used in mole-spector).                         |
-|                                                                       |
 |   2023:                                                               |
 |   - vulner-tape is a small application for analyzing PHP websites.    |
 |   I developed it in college, so it's more of a keepsake than          |
 |   something practically useful.                                       |
-|                                                                       |
-|   - completed "CS50’s Introduction to Programming with Python"        |
-|   course (used later in mole-spector).                                |
 |                                                                       |
 +-----------------------------------------------------------------------+
 
