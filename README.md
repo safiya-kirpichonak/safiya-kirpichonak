@@ -47,7 +47,8 @@
 |   - okibro is a small application for learning English language       |
 |   using the ChatGPD API.                                              |
 |                                                                       | 
-|   - completed React course (react-learning).                          |
+|   - react-basics-course is folder with completed tasks from           |
+|   React course.                                                       |
 |                                                                       |
 |   2023:                                                               |
 |   - vulner-tape is a small application for analyzing PHP websites.    |
