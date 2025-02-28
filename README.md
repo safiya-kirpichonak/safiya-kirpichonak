@@ -86,9 +86,6 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    |.---------------------------------------------------------.|
    ||                         Status                          ||
    ||                                                         ||
-   ||    I’m doing web development now, but I’m trying        ||
-   ||    myself in other areas.                               ||
-   ||                                                         ||
    ||    1. I am reading "Structure and interpretation        || 
    ||    programs" and solving of computer tasks from         ||
    ||    that book. You can see the results in the            ||
