@@ -76,10 +76,6 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    ||    2. If I come up with something small but             || 
    ||    theoretically useful, I add it to useful-scripts.    || 
    ||                                                         || 
-   ||    3. If I come up with something small but             || 
-   ||    theoretically funny, I add it to entertaining-       ||
-   ||    scripts.                                             ||
-   ||                                                         || 
    |+---------------------------------------------------------+|
    +-..-----------------------------------------------------..-+
    .------------------------------------------------------------.
