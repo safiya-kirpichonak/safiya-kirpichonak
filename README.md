@@ -23,6 +23,11 @@
 |                              Completed                                | 
 +-----------------------------------------------------------------------+
 |                                                                       |
+|   2025:                                                               |
+|   - saiofcp-book-learning is a repository with my solutions to some   |
+|   of the tasks from the book "Structure and Interpretation of         |
+|   Computer Programs".                                                 |
+|                                                                       |
 |   2024:                                                               |
 |   - mole-spector is a simple web application for analyzing moles      |
 |   on skin to detect skin cancer.                                      | 
@@ -68,13 +73,13 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    |.---------------------------------------------------------.|
    ||                         Status                          ||
    ||                                                         ||
-   ||    1. I am reading "Structure and interpretation        || 
-   ||    programs" and solving of computer tasks from         ||
-   ||    that book. You can see the results in the            ||
-   ||    "saiofcp-book-learning".                             || 
+   ||    1. I am taking a course on Node.js.                  ||
    ||                                                         ||
    ||    2. If I come up with something small but             || 
    ||    theoretically useful, I add it to useful-scripts.    || 
+   ||                                                         || 
+   ||                                                         || 
+   ||                                                         || 
    ||                                                         || 
    |+---------------------------------------------------------+|
    +-..-----------------------------------------------------..-+
