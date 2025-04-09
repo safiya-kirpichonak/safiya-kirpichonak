@@ -5,6 +5,23 @@
  / __  //  __// // // /_/ /   | |/ |/ // /_/ // /   / // /_/ //_/  
 /_/ /_/ \___//_//_/ \____/    |__/|__/ \____//_/   /_/ \__,_/(_)
 
+            __________________   __________________
+          .-/|                  \ /                  |\-.
+          ||||    Main skills    |    Other skills   ||||
+          ||||                   |                   ||||
+          ||||  - JavaScript     |  - Python         ||||
+          ||||  - TypeScript     |  - Redis          ||||
+          ||||  - Node.js        |  - MongoDB        ||||
+          ||||  - React          |  - Grafana        ||||
+          ||||  - PostgreSQL     |  - Lisp Scheme    ||||
+          ||||  - Docker         |                   ||||
+          ||||  - AWS            |                   ||||
+          ||||  - Unit testing   |                   ||||
+          ||||  - REST API       |     --==*==--     ||||
+          ||||  - Swagger        |                   ||||
+          ||||__________________ | __________________||||
+          ||/===================\|/===================\||
+          `--------------------~___~-------------------''
 
                        .')             _
                       (_  )        .+(`  ) ) 
@@ -73,13 +90,11 @@ __--_________............-------------'''''''''''''''` ~~~~~    ~~~ ~~~~
    |.---------------------------------------------------------.|
    ||                         Status                          ||
    ||                                                         ||
-   ||    1. I am taking a course on Node.js.                  ||
+   ||  1. I'm taking a Node.js course from Metatech           ||
+   ||  University to dive deeper into the technology.         ||
    ||                                                         ||
-   ||    2. If I come up with something small but             || 
-   ||    theoretically useful, I add it to useful-scripts.    || 
-   ||                                                         || 
-   ||                                                         || 
-   ||                                                         || 
+   ||  2. If I come up with something small but potentially   ||
+   ||  useful, I add it to the useful-scripts repository.     ||
    ||                                                         || 
    |+---------------------------------------------------------+|
    +-..-----------------------------------------------------..-+
